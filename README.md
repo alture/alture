@@ -6,12 +6,7 @@
 - 🤔 I’m looking for help with UI/UX design
 - 💬 Ask me about motorcycles
 - 📫 How to reach me: ...
-- ⚡ Fun fact: ...
-
-# My Stats
-## Top Langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alture&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+  
 ### LeetCode 
 [![Alture's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=_alture&theme=dark)](https://leetcode.com/_alture/)
 
